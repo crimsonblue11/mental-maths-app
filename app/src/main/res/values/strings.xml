@@ -1,4 +1,8 @@
 <resources>
-    <string name="app_name">Mental MathsApp</string>
-    <string name="mental_maths_app">Mental Maths App</string>
+    <string name="app_name">Mental Maths</string>
+    <string name="addition">Addition</string>
+    <string name="subtraction">Subtraction</string>
+    <string name="multiplication">Multiplication</string>
+    <string name="division">Division</string>
+    <string name="account">Account</string>
 </resources>
